@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Report</string>
+    <!--微信-->
+    <string name="install_weixin">未安装微信请安装</string>
+    <string name="wechatVersionLowNotShare">您的微信版本不支持分享到朋友圈</string>
+    <string name="ERR_AUTH_DENIED">授权被拒绝</string>
+    <string name="ERR_USER_CANCEL">用户取消</string>
+    <string name="ERR_COMM">支付失败</string>
+    <string name="ERR_SENT_FAILED">发送失败</string>
+    <string name="ERR_UNSUPPORT">不支持</string>
+    <string name="unknown_mistake">未知错误</string>
+</resources>
